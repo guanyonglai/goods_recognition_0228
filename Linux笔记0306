@@ -27,3 +27,5 @@ g++ gdb_test.c -g -Wall -Werror -o gdb_test
    应git merge origin/master把本地仓库和远程同步一下
 
 6、数据增强（图片裁剪）http://blog.csdn.net/qq_29133371/article/details/54927266
+
+7、谭傅伦的GitHub https://github.com/TanFluent/darknet-tfl
