@@ -25,3 +25,5 @@ g++ gdb_test.c -g -Wall -Werror -o gdb_test
    更新被拒绝,因为您当前分支的最新提交落后于其对应的远程分支。 提示:再次推送前,
    这个问题是远程仓库和本地不同步引起的，因为远程仓库包含您本地尚不存在的提交
    应git merge origin/master把本地仓库和远程同步一下
+
+6、数据增强（图片裁剪）http://blog.csdn.net/qq_29133371/article/details/54927266
